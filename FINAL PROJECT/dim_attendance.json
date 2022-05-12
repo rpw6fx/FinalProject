@@ -1,0 +1,650 @@
+[
+  {
+    "surr_key": 1,
+    "Date": "2019-04-05T00:00:00",
+    "Opponent": "LAD",
+    "Attendance": 48404,
+    "Capacity": 50144,
+    "Percent_Attendance": 96.53
+  },
+  {
+    "surr_key": 2,
+    "Date": "2019-04-06T00:00:00",
+    "Opponent": "LAD",
+    "Attendance": 47880,
+    "Capacity": 50144,
+    "Percent_Attendance": 95.49
+  },
+  {
+    "surr_key": 3,
+    "Date": "2019-04-07T00:00:00",
+    "Opponent": "LAD",
+    "Attendance": 41232,
+    "Capacity": 50144,
+    "Percent_Attendance": 82.23
+  },
+  {
+    "surr_key": 4,
+    "Date": "2019-04-08T00:00:00",
+    "Opponent": "ATL",
+    "Attendance": 25199,
+    "Capacity": 50144,
+    "Percent_Attendance": 50.25
+  },
+  {
+    "surr_key": 5,
+    "Date": "2019-04-09T00:00:00",
+    "Opponent": "ATL",
+    "Attendance": 26124,
+    "Capacity": 50144,
+    "Percent_Attendance": 52.1
+  },
+  {
+    "surr_key": 6,
+    "Date": "2019-04-18T00:00:00",
+    "Opponent": "PHI",
+    "Attendance": 27562,
+    "Capacity": 50144,
+    "Percent_Attendance": 54.97
+  },
+  {
+    "surr_key": 7,
+    "Date": "2019-04-19T00:00:00",
+    "Opponent": "PHI",
+    "Attendance": 35423,
+    "Capacity": 50144,
+    "Percent_Attendance": 70.64
+  },
+  {
+    "surr_key": 8,
+    "Date": "2019-04-20T00:00:00",
+    "Opponent": "PHI",
+    "Attendance": 40530,
+    "Capacity": 50144,
+    "Percent_Attendance": 80.83
+  },
+  {
+    "surr_key": 9,
+    "Date": "2019-04-21T00:00:00",
+    "Opponent": "PHI",
+    "Attendance": 28287,
+    "Capacity": 50144,
+    "Percent_Attendance": 56.41
+  },
+  {
+    "surr_key": 10,
+    "Date": "2019-04-22T00:00:00",
+    "Opponent": "WSN",
+    "Attendance": 20517,
+    "Capacity": 50144,
+    "Percent_Attendance": 40.92
+  },
+  {
+    "surr_key": 11,
+    "Date": "2019-04-23T00:00:00",
+    "Opponent": "WSN",
+    "Attendance": 24456,
+    "Capacity": 50144,
+    "Percent_Attendance": 48.77
+  },
+  {
+    "surr_key": 12,
+    "Date": "2019-04-24T00:00:00",
+    "Opponent": "WSN",
+    "Attendance": 33135,
+    "Capacity": 50144,
+    "Percent_Attendance": 66.08
+  },
+  {
+    "surr_key": 13,
+    "Date": "2019-05-03T00:00:00",
+    "Opponent": "ARI",
+    "Attendance": 29574,
+    "Capacity": 50144,
+    "Percent_Attendance": 58.98
+  },
+  {
+    "surr_key": 14,
+    "Date": "2019-05-04T00:00:00",
+    "Opponent": "ARI",
+    "Attendance": 37765,
+    "Capacity": 50144,
+    "Percent_Attendance": 75.31
+  },
+  {
+    "surr_key": 15,
+    "Date": "2019-05-05T00:00:00",
+    "Opponent": "ARI",
+    "Attendance": 40262,
+    "Capacity": 50144,
+    "Percent_Attendance": 80.29
+  },
+  {
+    "surr_key": 16,
+    "Date": "2019-05-07T00:00:00",
+    "Opponent": "SFG",
+    "Attendance": 21707,
+    "Capacity": 50144,
+    "Percent_Attendance": 43.29
+  },
+  {
+    "surr_key": 17,
+    "Date": "2019-05-09T00:00:00",
+    "Opponent": "SFG",
+    "Attendance": 25368,
+    "Capacity": 50144,
+    "Percent_Attendance": 50.59
+  },
+  {
+    "surr_key": 18,
+    "Date": "2019-05-10T00:00:00",
+    "Opponent": "SDP",
+    "Attendance": 27594,
+    "Capacity": 50144,
+    "Percent_Attendance": 55.03
+  },
+  {
+    "surr_key": 19,
+    "Date": "2019-05-11T00:00:00",
+    "Opponent": "SDP",
+    "Attendance": 37118,
+    "Capacity": 50144,
+    "Percent_Attendance": 74.02
+  },
+  {
+    "surr_key": 20,
+    "Date": "2019-05-12T00:00:00",
+    "Opponent": "SDP",
+    "Attendance": 40234,
+    "Capacity": 50144,
+    "Percent_Attendance": 80.24
+  },
+  {
+    "surr_key": 21,
+    "Date": "2019-05-24T00:00:00",
+    "Opponent": "BAL",
+    "Attendance": 32397,
+    "Capacity": 50144,
+    "Percent_Attendance": 64.61
+  },
+  {
+    "surr_key": 22,
+    "Date": "2019-05-25T00:00:00",
+    "Opponent": "BAL",
+    "Attendance": 41239,
+    "Capacity": 50144,
+    "Percent_Attendance": 82.24
+  },
+  {
+    "surr_key": 23,
+    "Date": "2019-05-26T00:00:00",
+    "Opponent": "BAL",
+    "Attendance": 46815,
+    "Capacity": 50144,
+    "Percent_Attendance": 93.36
+  },
+  {
+    "surr_key": 24,
+    "Date": "2019-05-27T00:00:00",
+    "Opponent": "ARI",
+    "Attendance": 35604,
+    "Capacity": 50144,
+    "Percent_Attendance": 71.0
+  },
+  {
+    "surr_key": 25,
+    "Date": "2019-05-28T00:00:00",
+    "Opponent": "ARI",
+    "Attendance": 21583,
+    "Capacity": 50144,
+    "Percent_Attendance": 43.04
+  },
+  {
+    "surr_key": 26,
+    "Date": "2019-05-29T00:00:00",
+    "Opponent": "ARI",
+    "Attendance": 24261,
+    "Capacity": 50144,
+    "Percent_Attendance": 48.38
+  },
+  {
+    "surr_key": 27,
+    "Date": "2019-05-30T00:00:00",
+    "Opponent": "ARI",
+    "Attendance": 30371,
+    "Capacity": 50144,
+    "Percent_Attendance": 60.57
+  },
+  {
+    "surr_key": 28,
+    "Date": "2019-05-31T00:00:00",
+    "Opponent": "TOR",
+    "Attendance": 32990,
+    "Capacity": 50144,
+    "Percent_Attendance": 65.79
+  },
+  {
+    "surr_key": 29,
+    "Date": "2019-06-01T00:00:00",
+    "Opponent": "TOR",
+    "Attendance": 34025,
+    "Capacity": 50144,
+    "Percent_Attendance": 67.85
+  },
+  {
+    "surr_key": 30,
+    "Date": "2019-06-02T00:00:00",
+    "Opponent": "TOR",
+    "Attendance": 37861,
+    "Capacity": 50144,
+    "Percent_Attendance": 75.5
+  },
+  {
+    "surr_key": 31,
+    "Date": "2019-06-10T00:00:00",
+    "Opponent": "CHC",
+    "Attendance": 44859,
+    "Capacity": 50144,
+    "Percent_Attendance": 89.46
+  },
+  {
+    "surr_key": 32,
+    "Date": "2019-06-11T00:00:00",
+    "Opponent": "CHC",
+    "Attendance": 43126,
+    "Capacity": 50144,
+    "Percent_Attendance": 86.0
+  },
+  {
+    "surr_key": 33,
+    "Date": "2019-06-12T00:00:00",
+    "Opponent": "CHC",
+    "Attendance": 47412,
+    "Capacity": 50144,
+    "Percent_Attendance": 94.55
+  },
+  {
+    "surr_key": 34,
+    "Date": "2019-06-13T00:00:00",
+    "Opponent": "SDP",
+    "Attendance": 35504,
+    "Capacity": 50144,
+    "Percent_Attendance": 70.8
+  },
+  {
+    "surr_key": 35,
+    "Date": "2019-06-14T00:00:00",
+    "Opponent": "SDP",
+    "Attendance": 38077,
+    "Capacity": 50144,
+    "Percent_Attendance": 75.94
+  },
+  {
+    "surr_key": 36,
+    "Date": "2019-06-15T00:00:00",
+    "Opponent": "SDP",
+    "Attendance": 46133,
+    "Capacity": 50144,
+    "Percent_Attendance": 92.0
+  },
+  {
+    "surr_key": 37,
+    "Date": "2019-06-16T00:00:00",
+    "Opponent": "SDP",
+    "Attendance": 47526,
+    "Capacity": 50144,
+    "Percent_Attendance": 94.78
+  },
+  {
+    "surr_key": 38,
+    "Date": "2019-06-27T00:00:00",
+    "Opponent": "LAD",
+    "Attendance": 47452,
+    "Capacity": 50144,
+    "Percent_Attendance": 94.63
+  },
+  {
+    "surr_key": 39,
+    "Date": "2019-06-28T00:00:00",
+    "Opponent": "LAD",
+    "Attendance": 46065,
+    "Capacity": 50144,
+    "Percent_Attendance": 91.87
+  },
+  {
+    "surr_key": 40,
+    "Date": "2019-06-29T00:00:00",
+    "Opponent": "LAD",
+    "Attendance": 48101,
+    "Capacity": 50144,
+    "Percent_Attendance": 95.93
+  },
+  {
+    "surr_key": 41,
+    "Date": "2019-06-30T00:00:00",
+    "Opponent": "LAD",
+    "Attendance": 47713,
+    "Capacity": 50144,
+    "Percent_Attendance": 95.15
+  },
+  {
+    "surr_key": 42,
+    "Date": "2019-07-02T00:00:00",
+    "Opponent": "HOU",
+    "Attendance": 47864,
+    "Capacity": 50144,
+    "Percent_Attendance": 95.45
+  },
+  {
+    "surr_key": 43,
+    "Date": "2019-07-03T00:00:00",
+    "Opponent": "HOU",
+    "Attendance": 48308,
+    "Capacity": 50144,
+    "Percent_Attendance": 96.34
+  },
+  {
+    "surr_key": 44,
+    "Date": "2019-07-12T00:00:00",
+    "Opponent": "CIN",
+    "Attendance": 41368,
+    "Capacity": 50144,
+    "Percent_Attendance": 82.5
+  },
+  {
+    "surr_key": 45,
+    "Date": "2019-07-13T00:00:00",
+    "Opponent": "CIN",
+    "Attendance": 43650,
+    "Capacity": 50144,
+    "Percent_Attendance": 87.05
+  },
+  {
+    "surr_key": 46,
+    "Date": "2019-07-14T00:00:00",
+    "Opponent": "CIN",
+    "Attendance": 40624,
+    "Capacity": 50144,
+    "Percent_Attendance": 81.01
+  },
+  {
+    "surr_key": 47,
+    "Date": "2019-07-15T00:00:00",
+    "Opponent": "SFG",
+    "Attendance": 26434,
+    "Capacity": 50144,
+    "Percent_Attendance": 52.72
+  },
+  {
+    "surr_key": 48,
+    "Date": "2019-07-15T00:00:00",
+    "Opponent": "SFG",
+    "Attendance": 34424,
+    "Capacity": 50144,
+    "Percent_Attendance": 68.65
+  },
+  {
+    "surr_key": 49,
+    "Date": "2019-07-16T00:00:00",
+    "Opponent": "SFG",
+    "Attendance": 47413,
+    "Capacity": 50144,
+    "Percent_Attendance": 94.55
+  },
+  {
+    "surr_key": 50,
+    "Date": "2019-07-17T00:00:00",
+    "Opponent": "SFG",
+    "Attendance": 40157,
+    "Capacity": 50144,
+    "Percent_Attendance": 80.08
+  },
+  {
+    "surr_key": 51,
+    "Date": "2019-07-29T00:00:00",
+    "Opponent": "LAD",
+    "Attendance": 43574,
+    "Capacity": 50144,
+    "Percent_Attendance": 86.9
+  },
+  {
+    "surr_key": 52,
+    "Date": "2019-07-30T00:00:00",
+    "Opponent": "LAD",
+    "Attendance": 45300,
+    "Capacity": 50144,
+    "Percent_Attendance": 90.34
+  },
+  {
+    "surr_key": 53,
+    "Date": "2019-07-31T00:00:00",
+    "Opponent": "LAD",
+    "Attendance": 42025,
+    "Capacity": 50144,
+    "Percent_Attendance": 83.81
+  },
+  {
+    "surr_key": 54,
+    "Date": "2019-08-02T00:00:00",
+    "Opponent": "SFG",
+    "Attendance": 40672,
+    "Capacity": 50144,
+    "Percent_Attendance": 81.11
+  },
+  {
+    "surr_key": 55,
+    "Date": "2019-08-03T00:00:00",
+    "Opponent": "SFG",
+    "Attendance": 47540,
+    "Capacity": 50144,
+    "Percent_Attendance": 94.81
+  },
+  {
+    "surr_key": 56,
+    "Date": "2019-08-04T00:00:00",
+    "Opponent": "SFG",
+    "Attendance": 40084,
+    "Capacity": 50144,
+    "Percent_Attendance": 79.94
+  },
+  {
+    "surr_key": 57,
+    "Date": "2019-08-12T00:00:00",
+    "Opponent": "ARI",
+    "Attendance": 32160,
+    "Capacity": 50144,
+    "Percent_Attendance": 64.14
+  },
+  {
+    "surr_key": 58,
+    "Date": "2019-08-13T00:00:00",
+    "Opponent": "ARI",
+    "Attendance": 31815,
+    "Capacity": 50144,
+    "Percent_Attendance": 63.45
+  },
+  {
+    "surr_key": 59,
+    "Date": "2019-08-14T00:00:00",
+    "Opponent": "ARI",
+    "Attendance": 32247,
+    "Capacity": 50144,
+    "Percent_Attendance": 64.31
+  },
+  {
+    "surr_key": 60,
+    "Date": "2019-08-16T00:00:00",
+    "Opponent": "MIA",
+    "Attendance": 35018,
+    "Capacity": 50144,
+    "Percent_Attendance": 69.83
+  },
+  {
+    "surr_key": 61,
+    "Date": "2019-08-17T00:00:00",
+    "Opponent": "MIA",
+    "Attendance": 40199,
+    "Capacity": 50144,
+    "Percent_Attendance": 80.17
+  },
+  {
+    "surr_key": 62,
+    "Date": "2019-08-18T00:00:00",
+    "Opponent": "MIA",
+    "Attendance": 38181,
+    "Capacity": 50144,
+    "Percent_Attendance": 76.14
+  },
+  {
+    "surr_key": 63,
+    "Date": "2019-08-26T00:00:00",
+    "Opponent": "ATL",
+    "Attendance": 29803,
+    "Capacity": 50144,
+    "Percent_Attendance": 59.43
+  },
+  {
+    "surr_key": 64,
+    "Date": "2019-08-27T00:00:00",
+    "Opponent": "BOS",
+    "Attendance": 44101,
+    "Capacity": 50144,
+    "Percent_Attendance": 87.95
+  },
+  {
+    "surr_key": 65,
+    "Date": "2019-08-28T00:00:00",
+    "Opponent": "BOS",
+    "Attendance": 40801,
+    "Capacity": 50144,
+    "Percent_Attendance": 81.37
+  },
+  {
+    "surr_key": 66,
+    "Date": "2019-08-29T00:00:00",
+    "Opponent": "PIT",
+    "Attendance": 33408,
+    "Capacity": 50144,
+    "Percent_Attendance": 66.62
+  },
+  {
+    "surr_key": 67,
+    "Date": "2019-08-30T00:00:00",
+    "Opponent": "PIT",
+    "Attendance": 27789,
+    "Capacity": 50144,
+    "Percent_Attendance": 55.42
+  },
+  {
+    "surr_key": 68,
+    "Date": "2019-08-31T00:00:00",
+    "Opponent": "PIT",
+    "Attendance": 37293,
+    "Capacity": 50144,
+    "Percent_Attendance": 74.37
+  },
+  {
+    "surr_key": 69,
+    "Date": "2019-09-01T00:00:00",
+    "Opponent": "PIT",
+    "Attendance": 32685,
+    "Capacity": 50144,
+    "Percent_Attendance": 65.18
+  },
+  {
+    "surr_key": 70,
+    "Date": "2019-09-10T00:00:00",
+    "Opponent": "STL",
+    "Attendance": 31514,
+    "Capacity": 50144,
+    "Percent_Attendance": 62.85
+  },
+  {
+    "surr_key": 71,
+    "Date": "2019-09-11T00:00:00",
+    "Opponent": "STL",
+    "Attendance": 31931,
+    "Capacity": 50144,
+    "Percent_Attendance": 63.68
+  },
+  {
+    "surr_key": 72,
+    "Date": "2019-09-12T00:00:00",
+    "Opponent": "STL",
+    "Attendance": 27618,
+    "Capacity": 50144,
+    "Percent_Attendance": 55.08
+  },
+  {
+    "surr_key": 73,
+    "Date": "2019-09-13T00:00:00",
+    "Opponent": "SDP",
+    "Attendance": 31654,
+    "Capacity": 50144,
+    "Percent_Attendance": 63.13
+  },
+  {
+    "surr_key": 74,
+    "Date": "2019-09-14T00:00:00",
+    "Opponent": "SDP",
+    "Attendance": 47370,
+    "Capacity": 50144,
+    "Percent_Attendance": 94.47
+  },
+  {
+    "surr_key": 75,
+    "Date": "2019-09-15T00:00:00",
+    "Opponent": "SDP",
+    "Attendance": 30699,
+    "Capacity": 50144,
+    "Percent_Attendance": 61.22
+  },
+  {
+    "surr_key": 76,
+    "Date": "2019-09-16T00:00:00",
+    "Opponent": "NYM",
+    "Attendance": 28505,
+    "Capacity": 50144,
+    "Percent_Attendance": 56.85
+  },
+  {
+    "surr_key": 77,
+    "Date": "2019-09-17T00:00:00",
+    "Opponent": "NYM",
+    "Attendance": 33118,
+    "Capacity": 50144,
+    "Percent_Attendance": 66.05
+  },
+  {
+    "surr_key": 78,
+    "Date": "2019-09-18T00:00:00",
+    "Opponent": "NYM",
+    "Attendance": 30174,
+    "Capacity": 50144,
+    "Percent_Attendance": 60.17
+  },
+  {
+    "surr_key": 79,
+    "Date": "2019-09-27T00:00:00",
+    "Opponent": "MIL",
+    "Attendance": 44087,
+    "Capacity": 50144,
+    "Percent_Attendance": 87.92
+  },
+  {
+    "surr_key": 80,
+    "Date": "2019-09-28T00:00:00",
+    "Opponent": "MIL",
+    "Attendance": 47381,
+    "Capacity": 50144,
+    "Percent_Attendance": 94.49
+  },
+  {
+    "surr_key": 81,
+    "Date": "2019-09-29T00:00:00",
+    "Opponent": "MIL",
+    "Attendance": 36771,
+    "Capacity": 50144,
+    "Percent_Attendance": 73.33
+  }
+]

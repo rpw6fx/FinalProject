@@ -1,0 +1,57 @@
+[
+ {
+  "Column1": 0,
+  "Date": "05\/12\/2022 10:29",
+  "City": "Denver",
+  "Longitude": -104.9847,
+  "Latitude": 39.7392,
+  "Temp": 60.75,
+  "Low Temp": 52.7,
+  "High Temp": 70.47,
+  "Wind Speed": 3
+ },
+ {
+  "Column1": 1,
+  "Date": "05\/12\/2022 10:29",
+  "City": "Denver",
+  "Longitude": -104.9847,
+  "Latitude": 39.7392,
+  "Temp": 60.75,
+  "Low Temp": 52.7,
+  "High Temp": 70.47,
+  "Wind Speed": 3
+ },
+ {
+  "Column1": 2,
+  "Date": "05\/12\/2022 10:29",
+  "City": "Denver",
+  "Longitude": -104.9847,
+  "Latitude": 39.7392,
+  "Temp": 60.75,
+  "Low Temp": 52.7,
+  "High Temp": 70.47,
+  "Wind Speed": 3
+ },
+ {
+  "Column1": 3,
+  "Date": "05\/12\/2022 10:29",
+  "City": "Denver",
+  "Longitude": -104.9847,
+  "Latitude": 39.7392,
+  "Temp": 60.75,
+  "Low Temp": 52.7,
+  "High Temp": 70.47,
+  "Wind Speed": 3
+ },
+ {
+  "Column1": 4,
+  "Date": "05\/12\/2022 10:30",
+  "City": "Denver",
+  "Longitude": -104.9847,
+  "Latitude": 39.7392,
+  "Temp": 60.75,
+  "Low Temp": 52.7,
+  "High Temp": 70.47,
+  "Wind Speed": 3
+ }
+]

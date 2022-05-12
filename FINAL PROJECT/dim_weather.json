@@ -1,0 +1,1304 @@
+[
+  {
+    "surr_key": 1,
+    "Date": "2019-03-28T00:00:00",
+    "Avg_Temp_F": 51.08,
+    "Low_Temp_F": 39.02,
+    "High_Temp_F": 73.94
+  },
+  {
+    "surr_key": 2,
+    "Date": "2019-03-29T00:00:00",
+    "Avg_Temp_F": 38.3,
+    "Low_Temp_F": 37.94,
+    "High_Temp_F": 62.96
+  },
+  {
+    "surr_key": 3,
+    "Date": "2019-03-30T00:00:00",
+    "Avg_Temp_F": 32.0,
+    "Low_Temp_F": 28.04,
+    "High_Temp_F": 42.98
+  },
+  {
+    "surr_key": 4,
+    "Date": "2019-03-31T00:00:00",
+    "Avg_Temp_F": 34.16,
+    "Low_Temp_F": 28.04,
+    "High_Temp_F": 39.02
+  },
+  {
+    "surr_key": 5,
+    "Date": "2019-04-01T00:00:00",
+    "Avg_Temp_F": 40.82,
+    "Low_Temp_F": 28.94,
+    "High_Temp_F": 48.92
+  },
+  {
+    "surr_key": 6,
+    "Date": "2019-04-02T00:00:00",
+    "Avg_Temp_F": 42.26,
+    "Low_Temp_F": 30.02,
+    "High_Temp_F": 57.02
+  },
+  {
+    "surr_key": 7,
+    "Date": "2019-04-03T00:00:00",
+    "Avg_Temp_F": 44.42,
+    "Low_Temp_F": 33.98,
+    "High_Temp_F": 53.06
+  },
+  {
+    "surr_key": 8,
+    "Date": "2019-04-04T00:00:00",
+    "Avg_Temp_F": 49.28,
+    "Low_Temp_F": 35.06,
+    "High_Temp_F": 62.06
+  },
+  {
+    "surr_key": 9,
+    "Date": "2019-04-05T00:00:00",
+    "Avg_Temp_F": 53.6,
+    "Low_Temp_F": 35.96,
+    "High_Temp_F": 66.92
+  },
+  {
+    "surr_key": 10,
+    "Date": "2019-04-06T00:00:00",
+    "Avg_Temp_F": 53.42,
+    "Low_Temp_F": 42.08,
+    "High_Temp_F": 71.06
+  },
+  {
+    "surr_key": 11,
+    "Date": "2019-04-07T00:00:00",
+    "Avg_Temp_F": 53.42,
+    "Low_Temp_F": 44.06,
+    "High_Temp_F": 68.0
+  },
+  {
+    "surr_key": 12,
+    "Date": "2019-04-08T00:00:00",
+    "Avg_Temp_F": 57.56,
+    "Low_Temp_F": 42.08,
+    "High_Temp_F": 71.06
+  },
+  {
+    "surr_key": 13,
+    "Date": "2019-04-09T00:00:00",
+    "Avg_Temp_F": 61.16,
+    "Low_Temp_F": 44.06,
+    "High_Temp_F": 75.02
+  },
+  {
+    "surr_key": 14,
+    "Date": "2019-04-10T00:00:00",
+    "Avg_Temp_F": 38.84,
+    "Low_Temp_F": 41.0,
+    "High_Temp_F": 78.08
+  },
+  {
+    "surr_key": 15,
+    "Date": "2019-04-11T00:00:00",
+    "Avg_Temp_F": 28.58,
+    "Low_Temp_F": 17.06,
+    "High_Temp_F": 42.08
+  },
+  {
+    "surr_key": 16,
+    "Date": "2019-04-12T00:00:00",
+    "Avg_Temp_F": 29.84,
+    "Low_Temp_F": 17.96,
+    "High_Temp_F": 41.0
+  },
+  {
+    "surr_key": 17,
+    "Date": "2019-04-13T00:00:00",
+    "Avg_Temp_F": 34.52,
+    "Low_Temp_F": 24.98,
+    "High_Temp_F": 42.98
+  },
+  {
+    "surr_key": 18,
+    "Date": "2019-04-14T00:00:00",
+    "Avg_Temp_F": 46.94,
+    "Low_Temp_F": 28.94,
+    "High_Temp_F": 46.94
+  },
+  {
+    "surr_key": 19,
+    "Date": "2019-04-15T00:00:00",
+    "Avg_Temp_F": 56.66,
+    "Low_Temp_F": 33.98,
+    "High_Temp_F": 66.02
+  },
+  {
+    "surr_key": 20,
+    "Date": "2019-04-16T00:00:00",
+    "Avg_Temp_F": 52.7,
+    "Low_Temp_F": 39.02,
+    "High_Temp_F": 73.04
+  },
+  {
+    "surr_key": 21,
+    "Date": "2019-04-17T00:00:00",
+    "Avg_Temp_F": 48.92,
+    "Low_Temp_F": 39.02,
+    "High_Temp_F": 64.04
+  },
+  {
+    "surr_key": 22,
+    "Date": "2019-04-18T00:00:00",
+    "Avg_Temp_F": 47.66,
+    "Low_Temp_F": 39.02,
+    "High_Temp_F": 62.06
+  },
+  {
+    "surr_key": 23,
+    "Date": "2019-04-19T00:00:00",
+    "Avg_Temp_F": 53.6,
+    "Low_Temp_F": 35.96,
+    "High_Temp_F": 62.96
+  },
+  {
+    "surr_key": 24,
+    "Date": "2019-04-20T00:00:00",
+    "Avg_Temp_F": 60.8,
+    "Low_Temp_F": 37.04,
+    "High_Temp_F": 71.96
+  },
+  {
+    "surr_key": 25,
+    "Date": "2019-04-21T00:00:00",
+    "Avg_Temp_F": 54.5,
+    "Low_Temp_F": 48.92,
+    "High_Temp_F": 80.96
+  },
+  {
+    "surr_key": 26,
+    "Date": "2019-04-22T00:00:00",
+    "Avg_Temp_F": 44.06,
+    "Low_Temp_F": 41.0,
+    "High_Temp_F": 69.08
+  },
+  {
+    "surr_key": 27,
+    "Date": "2019-04-23T00:00:00",
+    "Avg_Temp_F": 49.28,
+    "Low_Temp_F": 41.0,
+    "High_Temp_F": 44.96
+  },
+  {
+    "surr_key": 28,
+    "Date": "2019-04-24T00:00:00",
+    "Avg_Temp_F": 56.3,
+    "Low_Temp_F": 42.98,
+    "High_Temp_F": 66.02
+  },
+  {
+    "surr_key": 29,
+    "Date": "2019-04-25T00:00:00",
+    "Avg_Temp_F": 55.04,
+    "Low_Temp_F": 44.06,
+    "High_Temp_F": 73.04
+  },
+  {
+    "surr_key": 30,
+    "Date": "2019-04-26T00:00:00",
+    "Avg_Temp_F": 60.62,
+    "Low_Temp_F": 42.98,
+    "High_Temp_F": 64.04
+  },
+  {
+    "surr_key": 31,
+    "Date": "2019-04-27T00:00:00",
+    "Avg_Temp_F": 58.46,
+    "Low_Temp_F": 42.98,
+    "High_Temp_F": 78.98
+  },
+  {
+    "surr_key": 32,
+    "Date": "2019-04-28T00:00:00",
+    "Avg_Temp_F": 61.7,
+    "Low_Temp_F": 42.98,
+    "High_Temp_F": 69.98
+  },
+  {
+    "surr_key": 33,
+    "Date": "2019-04-29T00:00:00",
+    "Avg_Temp_F": 44.78,
+    "Low_Temp_F": 32.0,
+    "High_Temp_F": 77.0
+  },
+  {
+    "surr_key": 34,
+    "Date": "2019-04-30T00:00:00",
+    "Avg_Temp_F": 43.34,
+    "Low_Temp_F": 30.02,
+    "High_Temp_F": 42.08
+  },
+  {
+    "surr_key": 35,
+    "Date": "2019-05-01T00:00:00",
+    "Avg_Temp_F": 44.78,
+    "Low_Temp_F": 30.92,
+    "High_Temp_F": 39.02
+  },
+  {
+    "surr_key": 36,
+    "Date": "2019-05-02T00:00:00",
+    "Avg_Temp_F": 46.4,
+    "Low_Temp_F": 35.06,
+    "High_Temp_F": 44.96
+  },
+  {
+    "surr_key": 37,
+    "Date": "2019-05-03T00:00:00",
+    "Avg_Temp_F": 52.52,
+    "Low_Temp_F": 37.04,
+    "High_Temp_F": 62.06
+  },
+  {
+    "surr_key": 38,
+    "Date": "2019-05-04T00:00:00",
+    "Avg_Temp_F": 56.48,
+    "Low_Temp_F": 35.96,
+    "High_Temp_F": 68.0
+  },
+  {
+    "surr_key": 39,
+    "Date": "2019-05-05T00:00:00",
+    "Avg_Temp_F": 60.44,
+    "Low_Temp_F": 39.02,
+    "High_Temp_F": 73.04
+  },
+  {
+    "surr_key": 40,
+    "Date": "2019-05-06T00:00:00",
+    "Avg_Temp_F": 56.84,
+    "Low_Temp_F": 46.04,
+    "High_Temp_F": 73.94
+  },
+  {
+    "surr_key": 41,
+    "Date": "2019-05-07T00:00:00",
+    "Avg_Temp_F": 52.7,
+    "Low_Temp_F": 44.96,
+    "High_Temp_F": 69.98
+  },
+  {
+    "surr_key": 42,
+    "Date": "2019-05-08T00:00:00",
+    "Avg_Temp_F": 44.96,
+    "Low_Temp_F": 44.06,
+    "High_Temp_F": 55.94
+  },
+  {
+    "surr_key": 43,
+    "Date": "2019-05-09T00:00:00",
+    "Avg_Temp_F": 39.38,
+    "Low_Temp_F": 32.0,
+    "High_Temp_F": 44.06
+  },
+  {
+    "surr_key": 44,
+    "Date": "2019-05-10T00:00:00",
+    "Avg_Temp_F": 44.24,
+    "Low_Temp_F": 32.0,
+    "High_Temp_F": 41.0
+  },
+  {
+    "surr_key": 45,
+    "Date": "2019-05-11T00:00:00",
+    "Avg_Temp_F": 51.26,
+    "Low_Temp_F": 33.08,
+    "High_Temp_F": 55.94
+  },
+  {
+    "surr_key": 46,
+    "Date": "2019-05-12T00:00:00",
+    "Avg_Temp_F": 57.2,
+    "Low_Temp_F": 37.04,
+    "High_Temp_F": 64.04
+  },
+  {
+    "surr_key": 47,
+    "Date": "2019-05-13T00:00:00",
+    "Avg_Temp_F": 63.5,
+    "Low_Temp_F": 41.0,
+    "High_Temp_F": 73.04
+  },
+  {
+    "surr_key": 48,
+    "Date": "2019-05-14T00:00:00",
+    "Avg_Temp_F": 66.38,
+    "Low_Temp_F": 44.96,
+    "High_Temp_F": 78.98
+  },
+  {
+    "surr_key": 49,
+    "Date": "2019-05-15T00:00:00",
+    "Avg_Temp_F": 69.08,
+    "Low_Temp_F": 50.0,
+    "High_Temp_F": 80.06
+  },
+  {
+    "surr_key": 50,
+    "Date": "2019-05-16T00:00:00",
+    "Avg_Temp_F": 70.88,
+    "Low_Temp_F": 50.0,
+    "High_Temp_F": 84.02
+  },
+  {
+    "surr_key": 51,
+    "Date": "2019-05-17T00:00:00",
+    "Avg_Temp_F": 62.6,
+    "Low_Temp_F": 53.06,
+    "High_Temp_F": 80.06
+  },
+  {
+    "surr_key": 52,
+    "Date": "2019-05-18T00:00:00",
+    "Avg_Temp_F": 52.7,
+    "Low_Temp_F": 39.92,
+    "High_Temp_F": 71.96
+  },
+  {
+    "surr_key": 53,
+    "Date": "2019-05-19T00:00:00",
+    "Avg_Temp_F": 48.56,
+    "Low_Temp_F": 37.94,
+    "High_Temp_F": 60.98
+  },
+  {
+    "surr_key": 54,
+    "Date": "2019-05-20T00:00:00",
+    "Avg_Temp_F": 44.6,
+    "Low_Temp_F": 35.96,
+    "High_Temp_F": 57.92
+  },
+  {
+    "surr_key": 55,
+    "Date": "2019-05-21T00:00:00",
+    "Avg_Temp_F": 41.54,
+    "Low_Temp_F": 30.92,
+    "High_Temp_F": 41.0
+  },
+  {
+    "surr_key": 56,
+    "Date": "2019-05-22T00:00:00",
+    "Avg_Temp_F": 46.22,
+    "Low_Temp_F": 30.92,
+    "High_Temp_F": 41.0
+  },
+  {
+    "surr_key": 57,
+    "Date": "2019-05-23T00:00:00",
+    "Avg_Temp_F": 45.86,
+    "Low_Temp_F": 33.08,
+    "High_Temp_F": 50.0
+  },
+  {
+    "surr_key": 58,
+    "Date": "2019-05-24T00:00:00",
+    "Avg_Temp_F": 52.52,
+    "Low_Temp_F": 37.04,
+    "High_Temp_F": 46.94
+  },
+  {
+    "surr_key": 59,
+    "Date": "2019-05-25T00:00:00",
+    "Avg_Temp_F": 58.64,
+    "Low_Temp_F": 39.02,
+    "High_Temp_F": 71.96
+  },
+  {
+    "surr_key": 60,
+    "Date": "2019-05-26T00:00:00",
+    "Avg_Temp_F": 61.16,
+    "Low_Temp_F": 42.98,
+    "High_Temp_F": 75.92
+  },
+  {
+    "surr_key": 61,
+    "Date": "2019-05-27T00:00:00",
+    "Avg_Temp_F": 59.18,
+    "Low_Temp_F": 46.94,
+    "High_Temp_F": 73.94
+  },
+  {
+    "surr_key": 62,
+    "Date": "2019-05-28T00:00:00",
+    "Avg_Temp_F": 50.0,
+    "Low_Temp_F": 42.98,
+    "High_Temp_F": 71.96
+  },
+  {
+    "surr_key": 63,
+    "Date": "2019-05-29T00:00:00",
+    "Avg_Temp_F": 48.38,
+    "Low_Temp_F": 42.08,
+    "High_Temp_F": 60.08
+  },
+  {
+    "surr_key": 64,
+    "Date": "2019-05-30T00:00:00",
+    "Avg_Temp_F": 55.22,
+    "Low_Temp_F": 42.08,
+    "High_Temp_F": 59.0
+  },
+  {
+    "surr_key": 65,
+    "Date": "2019-05-31T00:00:00",
+    "Avg_Temp_F": 61.7,
+    "Low_Temp_F": 42.08,
+    "High_Temp_F": 68.0
+  },
+  {
+    "surr_key": 66,
+    "Date": "2019-06-01T00:00:00",
+    "Avg_Temp_F": 62.96,
+    "Low_Temp_F": 48.02,
+    "High_Temp_F": 77.0
+  },
+  {
+    "surr_key": 67,
+    "Date": "2019-06-02T00:00:00",
+    "Avg_Temp_F": 64.76,
+    "Low_Temp_F": 48.02,
+    "High_Temp_F": 75.02
+  },
+  {
+    "surr_key": 68,
+    "Date": "2019-06-03T00:00:00",
+    "Avg_Temp_F": 66.74,
+    "Low_Temp_F": 48.92,
+    "High_Temp_F": 82.04
+  },
+  {
+    "surr_key": 69,
+    "Date": "2019-06-04T00:00:00",
+    "Avg_Temp_F": 67.64,
+    "Low_Temp_F": 51.08,
+    "High_Temp_F": 80.06
+  },
+  {
+    "surr_key": 70,
+    "Date": "2019-06-05T00:00:00",
+    "Avg_Temp_F": 66.02,
+    "Low_Temp_F": 50.0,
+    "High_Temp_F": 78.08
+  },
+  {
+    "surr_key": 71,
+    "Date": "2019-06-06T00:00:00",
+    "Avg_Temp_F": 68.54,
+    "Low_Temp_F": 50.0,
+    "High_Temp_F": 78.08
+  },
+  {
+    "surr_key": 72,
+    "Date": "2019-06-07T00:00:00",
+    "Avg_Temp_F": 71.96,
+    "Low_Temp_F": 53.06,
+    "High_Temp_F": 82.04
+  },
+  {
+    "surr_key": 73,
+    "Date": "2019-06-08T00:00:00",
+    "Avg_Temp_F": 70.16,
+    "Low_Temp_F": 55.04,
+    "High_Temp_F": 84.92
+  },
+  {
+    "surr_key": 74,
+    "Date": "2019-06-09T00:00:00",
+    "Avg_Temp_F": 57.56,
+    "Low_Temp_F": 44.96,
+    "High_Temp_F": 80.06
+  },
+  {
+    "surr_key": 75,
+    "Date": "2019-06-10T00:00:00",
+    "Avg_Temp_F": 61.16,
+    "Low_Temp_F": 42.98,
+    "High_Temp_F": 62.96
+  },
+  {
+    "surr_key": 76,
+    "Date": "2019-06-11T00:00:00",
+    "Avg_Temp_F": 65.12,
+    "Low_Temp_F": 46.04,
+    "High_Temp_F": 80.96
+  },
+  {
+    "surr_key": 77,
+    "Date": "2019-06-12T00:00:00",
+    "Avg_Temp_F": 63.5,
+    "Low_Temp_F": 50.0,
+    "High_Temp_F": 78.98
+  },
+  {
+    "surr_key": 78,
+    "Date": "2019-06-13T00:00:00",
+    "Avg_Temp_F": 68.54,
+    "Low_Temp_F": 51.98,
+    "High_Temp_F": 73.94
+  },
+  {
+    "surr_key": 79,
+    "Date": "2019-06-14T00:00:00",
+    "Avg_Temp_F": 71.6,
+    "Low_Temp_F": 53.06,
+    "High_Temp_F": 87.08
+  },
+  {
+    "surr_key": 80,
+    "Date": "2019-06-15T00:00:00",
+    "Avg_Temp_F": 66.92,
+    "Low_Temp_F": 53.96,
+    "High_Temp_F": 84.92
+  },
+  {
+    "surr_key": 81,
+    "Date": "2019-06-16T00:00:00",
+    "Avg_Temp_F": 67.1,
+    "Low_Temp_F": 53.06,
+    "High_Temp_F": 78.98
+  },
+  {
+    "surr_key": 82,
+    "Date": "2019-06-17T00:00:00",
+    "Avg_Temp_F": 64.04,
+    "Low_Temp_F": 53.96,
+    "High_Temp_F": 82.94
+  },
+  {
+    "surr_key": 83,
+    "Date": "2019-06-18T00:00:00",
+    "Avg_Temp_F": 61.7,
+    "Low_Temp_F": 53.96,
+    "High_Temp_F": 73.04
+  },
+  {
+    "surr_key": 84,
+    "Date": "2019-06-19T00:00:00",
+    "Avg_Temp_F": 66.38,
+    "Low_Temp_F": 51.98,
+    "High_Temp_F": 71.96
+  },
+  {
+    "surr_key": 85,
+    "Date": "2019-06-20T00:00:00",
+    "Avg_Temp_F": 70.52,
+    "Low_Temp_F": 53.96,
+    "High_Temp_F": 84.92
+  },
+  {
+    "surr_key": 86,
+    "Date": "2019-06-21T00:00:00",
+    "Avg_Temp_F": 63.68,
+    "Low_Temp_F": 53.06,
+    "High_Temp_F": 86.0
+  },
+  {
+    "surr_key": 87,
+    "Date": "2019-06-22T00:00:00",
+    "Avg_Temp_F": 55.04,
+    "Low_Temp_F": 46.04,
+    "High_Temp_F": 69.98
+  },
+  {
+    "surr_key": 88,
+    "Date": "2019-06-23T00:00:00",
+    "Avg_Temp_F": 55.04,
+    "Low_Temp_F": 44.06,
+    "High_Temp_F": 64.04
+  },
+  {
+    "surr_key": 89,
+    "Date": "2019-06-24T00:00:00",
+    "Avg_Temp_F": 63.68,
+    "Low_Temp_F": 44.96,
+    "High_Temp_F": 64.04
+  },
+  {
+    "surr_key": 90,
+    "Date": "2019-06-25T00:00:00",
+    "Avg_Temp_F": 69.98,
+    "Low_Temp_F": 48.02,
+    "High_Temp_F": 82.04
+  },
+  {
+    "surr_key": 91,
+    "Date": "2019-06-26T00:00:00",
+    "Avg_Temp_F": 74.48,
+    "Low_Temp_F": 51.98,
+    "High_Temp_F": 84.02
+  },
+  {
+    "surr_key": 92,
+    "Date": "2019-06-27T00:00:00",
+    "Avg_Temp_F": 78.08,
+    "Low_Temp_F": 53.96,
+    "High_Temp_F": 91.94
+  },
+  {
+    "surr_key": 93,
+    "Date": "2019-06-28T00:00:00",
+    "Avg_Temp_F": 80.42,
+    "Low_Temp_F": 57.92,
+    "High_Temp_F": 95.0
+  },
+  {
+    "surr_key": 94,
+    "Date": "2019-06-29T00:00:00",
+    "Avg_Temp_F": 79.7,
+    "Low_Temp_F": 59.0,
+    "High_Temp_F": 98.06
+  },
+  {
+    "surr_key": 95,
+    "Date": "2019-06-30T00:00:00",
+    "Avg_Temp_F": 77.54,
+    "Low_Temp_F": 60.98,
+    "High_Temp_F": 95.0
+  },
+  {
+    "surr_key": 96,
+    "Date": "2019-07-01T00:00:00",
+    "Avg_Temp_F": 73.22,
+    "Low_Temp_F": 59.0,
+    "High_Temp_F": 93.92
+  },
+  {
+    "surr_key": 97,
+    "Date": "2019-07-02T00:00:00",
+    "Avg_Temp_F": 73.94,
+    "Low_Temp_F": 57.02,
+    "High_Temp_F": 87.08
+  },
+  {
+    "surr_key": 98,
+    "Date": "2019-07-03T00:00:00",
+    "Avg_Temp_F": 76.64,
+    "Low_Temp_F": 57.92,
+    "High_Temp_F": 86.0
+  },
+  {
+    "surr_key": 99,
+    "Date": "2019-07-04T00:00:00",
+    "Avg_Temp_F": 77.18,
+    "Low_Temp_F": 59.0,
+    "High_Temp_F": 93.92
+  },
+  {
+    "surr_key": 100,
+    "Date": "2019-07-05T00:00:00",
+    "Avg_Temp_F": 74.66,
+    "Low_Temp_F": 59.0,
+    "High_Temp_F": 87.08
+  },
+  {
+    "surr_key": 101,
+    "Date": "2019-07-06T00:00:00",
+    "Avg_Temp_F": 70.7,
+    "Low_Temp_F": 57.92,
+    "High_Temp_F": 80.06
+  },
+  {
+    "surr_key": 102,
+    "Date": "2019-07-07T00:00:00",
+    "Avg_Temp_F": 71.42,
+    "Low_Temp_F": 57.92,
+    "High_Temp_F": 84.02
+  },
+  {
+    "surr_key": 103,
+    "Date": "2019-07-08T00:00:00",
+    "Avg_Temp_F": 71.96,
+    "Low_Temp_F": 57.92,
+    "High_Temp_F": 89.06
+  },
+  {
+    "surr_key": 104,
+    "Date": "2019-07-09T00:00:00",
+    "Avg_Temp_F": 74.84,
+    "Low_Temp_F": 55.04,
+    "High_Temp_F": 84.02
+  },
+  {
+    "surr_key": 105,
+    "Date": "2019-07-10T00:00:00",
+    "Avg_Temp_F": 73.94,
+    "Low_Temp_F": 55.94,
+    "High_Temp_F": 91.04
+  },
+  {
+    "surr_key": 106,
+    "Date": "2019-07-11T00:00:00",
+    "Avg_Temp_F": 79.16,
+    "Low_Temp_F": 59.0,
+    "High_Temp_F": 89.06
+  },
+  {
+    "surr_key": 107,
+    "Date": "2019-07-12T00:00:00",
+    "Avg_Temp_F": 80.78,
+    "Low_Temp_F": 66.02,
+    "High_Temp_F": 96.08
+  },
+  {
+    "surr_key": 108,
+    "Date": "2019-07-13T00:00:00",
+    "Avg_Temp_F": 80.06,
+    "Low_Temp_F": 62.96,
+    "High_Temp_F": 93.92
+  },
+  {
+    "surr_key": 109,
+    "Date": "2019-07-14T00:00:00",
+    "Avg_Temp_F": 78.8,
+    "Low_Temp_F": 62.96,
+    "High_Temp_F": 96.98
+  },
+  {
+    "surr_key": 110,
+    "Date": "2019-07-15T00:00:00",
+    "Avg_Temp_F": 79.16,
+    "Low_Temp_F": 62.06,
+    "High_Temp_F": 91.04
+  },
+  {
+    "surr_key": 111,
+    "Date": "2019-07-16T00:00:00",
+    "Avg_Temp_F": 80.42,
+    "Low_Temp_F": 60.08,
+    "High_Temp_F": 93.02
+  },
+  {
+    "surr_key": 112,
+    "Date": "2019-07-17T00:00:00",
+    "Avg_Temp_F": 83.3,
+    "Low_Temp_F": 60.08,
+    "High_Temp_F": 96.08
+  },
+  {
+    "surr_key": 113,
+    "Date": "2019-07-18T00:00:00",
+    "Avg_Temp_F": 83.84,
+    "Low_Temp_F": 62.06,
+    "High_Temp_F": 96.98
+  },
+  {
+    "surr_key": 114,
+    "Date": "2019-07-19T00:00:00",
+    "Avg_Temp_F": 85.82,
+    "Low_Temp_F": 62.06,
+    "High_Temp_F": 98.96
+  },
+  {
+    "surr_key": 115,
+    "Date": "2019-07-20T00:00:00",
+    "Avg_Temp_F": 79.7,
+    "Low_Temp_F": 66.02,
+    "High_Temp_F": 100.04
+  },
+  {
+    "surr_key": 116,
+    "Date": "2019-07-21T00:00:00",
+    "Avg_Temp_F": 74.3,
+    "Low_Temp_F": 59.0,
+    "High_Temp_F": 87.08
+  },
+  {
+    "surr_key": 117,
+    "Date": "2019-07-22T00:00:00",
+    "Avg_Temp_F": 72.14,
+    "Low_Temp_F": 59.0,
+    "High_Temp_F": 86.0
+  },
+  {
+    "surr_key": 118,
+    "Date": "2019-07-23T00:00:00",
+    "Avg_Temp_F": 74.48,
+    "Low_Temp_F": 60.08,
+    "High_Temp_F": 87.98
+  },
+  {
+    "surr_key": 119,
+    "Date": "2019-07-24T00:00:00",
+    "Avg_Temp_F": 77.18,
+    "Low_Temp_F": 60.08,
+    "High_Temp_F": 91.04
+  },
+  {
+    "surr_key": 120,
+    "Date": "2019-07-25T00:00:00",
+    "Avg_Temp_F": 76.64,
+    "Low_Temp_F": 64.04,
+    "High_Temp_F": 98.06
+  },
+  {
+    "surr_key": 121,
+    "Date": "2019-07-26T00:00:00",
+    "Avg_Temp_F": 76.82,
+    "Low_Temp_F": 62.06,
+    "High_Temp_F": 89.96
+  },
+  {
+    "surr_key": 122,
+    "Date": "2019-07-27T00:00:00",
+    "Avg_Temp_F": 76.46,
+    "Low_Temp_F": 62.06,
+    "High_Temp_F": 93.92
+  },
+  {
+    "surr_key": 123,
+    "Date": "2019-07-28T00:00:00",
+    "Avg_Temp_F": 78.08,
+    "Low_Temp_F": 64.04,
+    "High_Temp_F": 89.06
+  },
+  {
+    "surr_key": 124,
+    "Date": "2019-07-29T00:00:00",
+    "Avg_Temp_F": 77.9,
+    "Low_Temp_F": 60.98,
+    "High_Temp_F": 91.04
+  },
+  {
+    "surr_key": 125,
+    "Date": "2019-07-30T00:00:00",
+    "Avg_Temp_F": 79.34,
+    "Low_Temp_F": 60.98,
+    "High_Temp_F": 95.0
+  },
+  {
+    "surr_key": 126,
+    "Date": "2019-07-31T00:00:00",
+    "Avg_Temp_F": 79.7,
+    "Low_Temp_F": 62.06,
+    "High_Temp_F": 98.96
+  },
+  {
+    "surr_key": 127,
+    "Date": "2019-08-01T00:00:00",
+    "Avg_Temp_F": 74.48,
+    "Low_Temp_F": 64.04,
+    "High_Temp_F": 93.02
+  },
+  {
+    "surr_key": 128,
+    "Date": "2019-08-02T00:00:00",
+    "Avg_Temp_F": 75.74,
+    "Low_Temp_F": 62.06,
+    "High_Temp_F": 86.0
+  },
+  {
+    "surr_key": 129,
+    "Date": "2019-08-03T00:00:00",
+    "Avg_Temp_F": 78.08,
+    "Low_Temp_F": 62.06,
+    "High_Temp_F": 89.06
+  },
+  {
+    "surr_key": 130,
+    "Date": "2019-08-04T00:00:00",
+    "Avg_Temp_F": 77.0,
+    "Low_Temp_F": 64.04,
+    "High_Temp_F": 96.08
+  },
+  {
+    "surr_key": 131,
+    "Date": "2019-08-05T00:00:00",
+    "Avg_Temp_F": 77.18,
+    "Low_Temp_F": 64.94,
+    "High_Temp_F": 96.08
+  },
+  {
+    "surr_key": 132,
+    "Date": "2019-08-06T00:00:00",
+    "Avg_Temp_F": 78.98,
+    "Low_Temp_F": 62.06,
+    "High_Temp_F": 91.04
+  },
+  {
+    "surr_key": 133,
+    "Date": "2019-08-07T00:00:00",
+    "Avg_Temp_F": 78.62,
+    "Low_Temp_F": 62.06,
+    "High_Temp_F": 96.98
+  },
+  {
+    "surr_key": 134,
+    "Date": "2019-08-08T00:00:00",
+    "Avg_Temp_F": 73.76,
+    "Low_Temp_F": 64.04,
+    "High_Temp_F": 89.96
+  },
+  {
+    "surr_key": 135,
+    "Date": "2019-08-09T00:00:00",
+    "Avg_Temp_F": 74.84,
+    "Low_Temp_F": 64.94,
+    "High_Temp_F": 84.02
+  },
+  {
+    "surr_key": 136,
+    "Date": "2019-08-10T00:00:00",
+    "Avg_Temp_F": 75.74,
+    "Low_Temp_F": 66.02,
+    "High_Temp_F": 95.0
+  },
+  {
+    "surr_key": 137,
+    "Date": "2019-08-11T00:00:00",
+    "Avg_Temp_F": 73.76,
+    "Low_Temp_F": 66.02,
+    "High_Temp_F": 84.02
+  },
+  {
+    "surr_key": 138,
+    "Date": "2019-08-12T00:00:00",
+    "Avg_Temp_F": 75.02,
+    "Low_Temp_F": 57.92,
+    "High_Temp_F": 86.0
+  },
+  {
+    "surr_key": 139,
+    "Date": "2019-08-13T00:00:00",
+    "Avg_Temp_F": 73.4,
+    "Low_Temp_F": 60.08,
+    "High_Temp_F": 89.96
+  },
+  {
+    "surr_key": 140,
+    "Date": "2019-08-14T00:00:00",
+    "Avg_Temp_F": 73.4,
+    "Low_Temp_F": 59.0,
+    "High_Temp_F": 89.96
+  },
+  {
+    "surr_key": 141,
+    "Date": "2019-08-15T00:00:00",
+    "Avg_Temp_F": 76.64,
+    "Low_Temp_F": 59.0,
+    "High_Temp_F": 91.94
+  },
+  {
+    "surr_key": 142,
+    "Date": "2019-08-16T00:00:00",
+    "Avg_Temp_F": 75.92,
+    "Low_Temp_F": 59.0,
+    "High_Temp_F": 96.08
+  },
+  {
+    "surr_key": 143,
+    "Date": "2019-08-17T00:00:00",
+    "Avg_Temp_F": 75.92,
+    "Low_Temp_F": 59.0,
+    "High_Temp_F": 89.06
+  },
+  {
+    "surr_key": 144,
+    "Date": "2019-08-18T00:00:00",
+    "Avg_Temp_F": 76.28,
+    "Low_Temp_F": 55.94,
+    "High_Temp_F": 91.94
+  },
+  {
+    "surr_key": 145,
+    "Date": "2019-08-19T00:00:00",
+    "Avg_Temp_F": 80.96,
+    "Low_Temp_F": 55.94,
+    "High_Temp_F": 93.92
+  },
+  {
+    "surr_key": 146,
+    "Date": "2019-08-20T00:00:00",
+    "Avg_Temp_F": 80.78,
+    "Low_Temp_F": 60.98,
+    "High_Temp_F": 98.06
+  },
+  {
+    "surr_key": 147,
+    "Date": "2019-08-21T00:00:00",
+    "Avg_Temp_F": 75.02,
+    "Low_Temp_F": 62.96,
+    "High_Temp_F": 98.06
+  },
+  {
+    "surr_key": 148,
+    "Date": "2019-08-22T00:00:00",
+    "Avg_Temp_F": 73.04,
+    "Low_Temp_F": 57.02,
+    "High_Temp_F": 82.04
+  },
+  {
+    "surr_key": 149,
+    "Date": "2019-08-23T00:00:00",
+    "Avg_Temp_F": 73.22,
+    "Low_Temp_F": 57.92,
+    "High_Temp_F": 87.98
+  },
+  {
+    "surr_key": 150,
+    "Date": "2019-08-24T00:00:00",
+    "Avg_Temp_F": 72.86,
+    "Low_Temp_F": 57.02,
+    "High_Temp_F": 89.06
+  },
+  {
+    "surr_key": 151,
+    "Date": "2019-08-25T00:00:00",
+    "Avg_Temp_F": 78.98,
+    "Low_Temp_F": 55.94,
+    "High_Temp_F": 86.0
+  },
+  {
+    "surr_key": 152,
+    "Date": "2019-08-26T00:00:00",
+    "Avg_Temp_F": 73.94,
+    "Low_Temp_F": 59.0,
+    "High_Temp_F": 96.08
+  },
+  {
+    "surr_key": 153,
+    "Date": "2019-08-27T00:00:00",
+    "Avg_Temp_F": 68.72,
+    "Low_Temp_F": 57.92,
+    "High_Temp_F": 78.98
+  },
+  {
+    "surr_key": 154,
+    "Date": "2019-08-28T00:00:00",
+    "Avg_Temp_F": 73.04,
+    "Low_Temp_F": 55.04,
+    "High_Temp_F": 77.0
+  },
+  {
+    "surr_key": 155,
+    "Date": "2019-08-29T00:00:00",
+    "Avg_Temp_F": 77.36,
+    "Low_Temp_F": 53.96,
+    "High_Temp_F": 91.94
+  },
+  {
+    "surr_key": 156,
+    "Date": "2019-08-30T00:00:00",
+    "Avg_Temp_F": 73.94,
+    "Low_Temp_F": 60.08,
+    "High_Temp_F": 91.04
+  },
+  {
+    "surr_key": 157,
+    "Date": "2019-08-31T00:00:00",
+    "Avg_Temp_F": 76.28,
+    "Low_Temp_F": 59.0,
+    "High_Temp_F": 86.0
+  },
+  {
+    "surr_key": 158,
+    "Date": "2019-09-01T00:00:00",
+    "Avg_Temp_F": 79.7,
+    "Low_Temp_F": 60.08,
+    "High_Temp_F": 91.04
+  },
+  {
+    "surr_key": 159,
+    "Date": "2019-09-02T00:00:00",
+    "Avg_Temp_F": 82.76,
+    "Low_Temp_F": 59.0,
+    "High_Temp_F": 96.98
+  },
+  {
+    "surr_key": 160,
+    "Date": "2019-09-03T00:00:00",
+    "Avg_Temp_F": 77.18,
+    "Low_Temp_F": 60.98,
+    "High_Temp_F": 98.06
+  },
+  {
+    "surr_key": 161,
+    "Date": "2019-09-04T00:00:00",
+    "Avg_Temp_F": 75.38,
+    "Low_Temp_F": 62.06,
+    "High_Temp_F": 80.96
+  },
+  {
+    "surr_key": 162,
+    "Date": "2019-09-05T00:00:00",
+    "Avg_Temp_F": 78.8,
+    "Low_Temp_F": 60.98,
+    "High_Temp_F": 89.06
+  },
+  {
+    "surr_key": 163,
+    "Date": "2019-09-06T00:00:00",
+    "Avg_Temp_F": 74.12,
+    "Low_Temp_F": 64.94,
+    "High_Temp_F": 96.08
+  },
+  {
+    "surr_key": 164,
+    "Date": "2019-09-07T00:00:00",
+    "Avg_Temp_F": 74.48,
+    "Low_Temp_F": 60.98,
+    "High_Temp_F": 84.92
+  },
+  {
+    "surr_key": 165,
+    "Date": "2019-09-08T00:00:00",
+    "Avg_Temp_F": 69.08,
+    "Low_Temp_F": 57.02,
+    "High_Temp_F": 89.06
+  },
+  {
+    "surr_key": 166,
+    "Date": "2019-09-09T00:00:00",
+    "Avg_Temp_F": 70.34,
+    "Low_Temp_F": 53.96,
+    "High_Temp_F": 77.0
+  },
+  {
+    "surr_key": 167,
+    "Date": "2019-09-10T00:00:00",
+    "Avg_Temp_F": 70.7,
+    "Low_Temp_F": 53.96,
+    "High_Temp_F": 82.04
+  },
+  {
+    "surr_key": 168,
+    "Date": "2019-09-11T00:00:00",
+    "Avg_Temp_F": 68.9,
+    "Low_Temp_F": 55.04,
+    "High_Temp_F": 89.06
+  },
+  {
+    "surr_key": 169,
+    "Date": "2019-09-12T00:00:00",
+    "Avg_Temp_F": 61.88,
+    "Low_Temp_F": 51.08,
+    "High_Temp_F": 80.06
+  },
+  {
+    "surr_key": 170,
+    "Date": "2019-09-13T00:00:00",
+    "Avg_Temp_F": 64.22,
+    "Low_Temp_F": 50.0,
+    "High_Temp_F": 75.92
+  },
+  {
+    "surr_key": 171,
+    "Date": "2019-09-14T00:00:00",
+    "Avg_Temp_F": 70.34,
+    "Low_Temp_F": 48.92,
+    "High_Temp_F": 80.06
+  },
+  {
+    "surr_key": 172,
+    "Date": "2019-09-15T00:00:00",
+    "Avg_Temp_F": 72.32,
+    "Low_Temp_F": 51.98,
+    "High_Temp_F": 87.98
+  },
+  {
+    "surr_key": 173,
+    "Date": "2019-09-16T00:00:00",
+    "Avg_Temp_F": 72.5,
+    "Low_Temp_F": 51.98,
+    "High_Temp_F": 89.96
+  },
+  {
+    "surr_key": 174,
+    "Date": "2019-09-17T00:00:00",
+    "Avg_Temp_F": 71.6,
+    "Low_Temp_F": 60.98,
+    "High_Temp_F": 87.98
+  },
+  {
+    "surr_key": 175,
+    "Date": "2019-09-18T00:00:00",
+    "Avg_Temp_F": 68.0,
+    "Low_Temp_F": 53.06,
+    "High_Temp_F": 89.06
+  },
+  {
+    "surr_key": 176,
+    "Date": "2019-09-19T00:00:00",
+    "Avg_Temp_F": 69.8,
+    "Low_Temp_F": 50.0,
+    "High_Temp_F": 84.02
+  },
+  {
+    "surr_key": 177,
+    "Date": "2019-09-20T00:00:00",
+    "Avg_Temp_F": 71.06,
+    "Low_Temp_F": 48.92,
+    "High_Temp_F": 87.08
+  },
+  {
+    "surr_key": 178,
+    "Date": "2019-09-21T00:00:00",
+    "Avg_Temp_F": 62.06,
+    "Low_Temp_F": 55.04,
+    "High_Temp_F": 87.08
+  },
+  {
+    "surr_key": 179,
+    "Date": "2019-09-22T00:00:00",
+    "Avg_Temp_F": 58.64,
+    "Low_Temp_F": 46.04,
+    "High_Temp_F": 80.06
+  },
+  {
+    "surr_key": 180,
+    "Date": "2019-09-23T00:00:00",
+    "Avg_Temp_F": 62.6,
+    "Low_Temp_F": 44.06,
+    "High_Temp_F": 75.92
+  },
+  {
+    "surr_key": 181,
+    "Date": "2019-09-24T00:00:00",
+    "Avg_Temp_F": 67.1,
+    "Low_Temp_F": 44.96,
+    "High_Temp_F": 80.96
+  },
+  {
+    "surr_key": 182,
+    "Date": "2019-09-25T00:00:00",
+    "Avg_Temp_F": 65.48,
+    "Low_Temp_F": 46.94,
+    "High_Temp_F": 86.0
+  },
+  {
+    "surr_key": 183,
+    "Date": "2019-09-26T00:00:00",
+    "Avg_Temp_F": 67.46,
+    "Low_Temp_F": 46.04,
+    "High_Temp_F": 82.04
+  },
+  {
+    "surr_key": 184,
+    "Date": "2019-09-27T00:00:00",
+    "Avg_Temp_F": 65.12,
+    "Low_Temp_F": 44.96,
+    "High_Temp_F": 87.08
+  },
+  {
+    "surr_key": 185,
+    "Date": "2019-09-28T00:00:00",
+    "Avg_Temp_F": 59.54,
+    "Low_Temp_F": 46.94,
+    "High_Temp_F": 80.96
+  },
+  {
+    "surr_key": 186,
+    "Date": "2019-09-29T00:00:00",
+    "Avg_Temp_F": 66.74,
+    "Low_Temp_F": 48.02,
+    "High_Temp_F": 78.08
+  }
+]
